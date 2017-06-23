@@ -23,7 +23,7 @@ gem 'logstasher', '~> 0.6'
 gem 'semantic_logger', '~> 3.4.0'
 gem 'gelf'
 gem 'honeybadger', '~> 3.1'
-gem 'jquery-rails', '~> 4.0'
+gem 'jquery-rails', '~> 4.3'
 gem 'uglifier', '~> 2.0'
 gem 'sidekiq', '~> 4.0'
 gem 'sinatra', '>= 1.3.0', require: nil
